@@ -1,0 +1,31 @@
+title: Saber Documentation
+description: Documentation for the Saber Protocol
+theme: just-the-docs
+
+url: https://stayrar3.github.io/saber-docs
+
+aux_links:
+  "Saber Protocol on GitHub":
+    - "https://github.com/stayrar3/saber-docs"
+
+# Enable search
+search_enabled: true
+
+# Enable dark mode
+color_scheme: dark
+
+# Sort pages by their path
+nav_sort: case_sensitive
+
+# Configure navigation order
+nav:
+  - title: Introduction
+    url: /01-introduction/01-overview
+  - title: Protocol
+    url: /02-protocol/01-architecture
+  - title: Governance
+    url: /04-governance/01-overview
+  - title: Mining
+    url: /05-mining/01-quarry-protocol
+  - title: Resources
+    url: /06-resources/01-tools-and-sdks
